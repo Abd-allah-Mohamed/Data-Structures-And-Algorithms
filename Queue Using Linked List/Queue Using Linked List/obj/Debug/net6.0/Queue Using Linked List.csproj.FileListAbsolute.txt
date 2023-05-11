@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\Queue Using Linked List.exe
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\Queue Using Linked List.deps.json
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\Queue Using Linked List.runtimeconfig.json
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\Queue Using Linked List.dll
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\ref\Queue Using Linked List.dll
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\bin\Debug\net6.0\Queue Using Linked List.pdb
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.dll
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\ref\Queue Using Linked List.dll
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.pdb
+C:\Users\Dell\source\repos\Queue Using Linked List\Queue Using Linked List\obj\Debug\net6.0\Queue Using Linked List.genruntimeconfig.cache

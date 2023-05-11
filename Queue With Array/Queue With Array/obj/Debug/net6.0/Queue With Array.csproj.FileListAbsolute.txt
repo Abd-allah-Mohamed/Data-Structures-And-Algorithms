@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\Queue With Array.exe
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\Queue With Array.deps.json
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\Queue With Array.runtimeconfig.json
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\Queue With Array.dll
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\ref\Queue With Array.dll
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\bin\Debug\net6.0\Queue With Array.pdb
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.dll
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\ref\Queue With Array.dll
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.pdb
+C:\Users\Dell\source\repos\Queue With Array\Queue With Array\obj\Debug\net6.0\Queue With Array.genruntimeconfig.cache

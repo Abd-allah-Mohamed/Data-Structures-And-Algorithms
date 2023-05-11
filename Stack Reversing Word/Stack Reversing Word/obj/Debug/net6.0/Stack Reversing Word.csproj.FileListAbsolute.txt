@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\Stack Reversing Word.exe
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\Stack Reversing Word.deps.json
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\Stack Reversing Word.runtimeconfig.json
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\Stack Reversing Word.dll
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\ref\Stack Reversing Word.dll
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\bin\Debug\net6.0\Stack Reversing Word.pdb
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.dll
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\ref\Stack Reversing Word.dll
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.pdb
+C:\Users\Dell\source\repos\Stack Reversing Word\Stack Reversing Word\obj\Debug\net6.0\Stack Reversing Word.genruntimeconfig.cache

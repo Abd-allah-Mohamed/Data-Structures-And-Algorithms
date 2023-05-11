@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stack Using Linked List/1.0.0": {
+        "runtime": {
+          "Stack Using Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack Using Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

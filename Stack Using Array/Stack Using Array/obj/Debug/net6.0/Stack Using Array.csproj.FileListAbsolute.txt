@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\Stack Using Array.exe
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\Stack Using Array.deps.json
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\Stack Using Array.runtimeconfig.json
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\Stack Using Array.dll
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\ref\Stack Using Array.dll
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\bin\Debug\net6.0\Stack Using Array.pdb
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.dll
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\ref\Stack Using Array.dll
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.pdb
+C:\Users\Dell\source\repos\Stack Using Array\Stack Using Array\obj\Debug\net6.0\Stack Using Array.genruntimeconfig.cache

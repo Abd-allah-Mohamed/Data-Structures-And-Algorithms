@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Single Linked List/1.0.0": {
+        "runtime": {
+          "Single Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Single Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

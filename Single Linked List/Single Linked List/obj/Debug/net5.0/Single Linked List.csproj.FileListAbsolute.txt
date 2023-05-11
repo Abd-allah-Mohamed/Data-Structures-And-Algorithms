@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.exe
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.deps.json
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.runtimeconfig.json
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.dll
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\ref\Single Linked List.dll
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\bin\Debug\net5.0\Single Linked List.pdb
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.dll
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\ref\Single Linked List.dll
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.pdb
+C:\Users\Dell\source\repos\Single Linked List\Single Linked List\obj\Debug\net5.0\Single Linked List.genruntimeconfig.cache
